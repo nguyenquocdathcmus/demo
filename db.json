@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"type": "RETRIEVE", "state": "SUCCESS", "message": "", "source": "UNKNOWN", "time_submitted": 0, "time_completed": 0, "payload_id": "f03106f0-dc28-424b-8edf-31dabeaae569", "time_arrival": 0, "bay_id": ""}
