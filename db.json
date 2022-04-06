@@ -1,1 +1,1 @@
-{"type": "RETRIEVE", "state": "SUCCESS", "message": "", "source": "UNKNOWN", "time_submitted": 0, "time_completed": 0, "payload_id": "f03106f0-dc28-424b-8edf-31dabeaae569", "time_arrival": 0, "bay_id": ""}
+{"type": "RETRIEVE", "state": "SUCCESS", "payload_id": "f03106f0-dc28-424b-8edf-31dabeaae569", "time_arrival": 0, "bay_id": ""}
